@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <!-- Memo Card Body (Clean rounded rectangle card) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M38,30 L66,30 A6,6 0 0,1 72,36 L72,72 A6,6 0 0,1 66,78 L38,78 A6,6 0 0,1 32,72 L32,36 A6,6 0 0,1 38,30 Z" />
+
+        <!-- Memo Content Lines (Minimal note representation) -->
+        <path
+            android:fillColor="#7986CB"
+            android:pathData="M40,42 L64,42 A2,2 0 0,1 64,46 L40,46 A2,2 0 0,1 40,42 Z" />
+        <path
+            android:fillColor="#9FA8DA"
+            android:pathData="M40,51 L58,51 A2,2 0 0,1 58,55 L40,55 A2,2 0 0,1 40,51 Z" />
+        <path
+            android:fillColor="#C5CAE9"
+            android:pathData="M40,60 L52,60 A2,2 0 0,1 52,64 L40,64 A2,2 0 0,1 40,60 Z" />
+
+        <!-- Subtle Orbital Ring (Space / Orbit Motif) -->
+        <path
+            android:strokeColor="#FFB74D"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M24,68 C20,54 30,36 54,32 C78,28 88,46 84,60 C80,74 70,82 54,82 C44,82 32,78 24,68" />
+
+        <!-- Orbital Node / Satellite Star -->
+        <path
+            android:fillColor="#FFA726"
+            android:pathData="M76,38 A3.5,3.5 0 1,1 76,37.99 Z" />
+    </group>
+</vector>

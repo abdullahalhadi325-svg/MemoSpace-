@@ -1,0 +1,60 @@
+<resources>
+    <!-- Application Identity -->
+    <string name="app_name">MemoSpace</string>
+    <string name="app_tagline">Capture anything quickly. Organize it naturally. Find it instantly.</string>
+
+    <!-- Navigation Destinations -->
+    <string name="nav_home">Home</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_pinned">Pinned</string>
+    <string name="nav_archive">Archive</string>
+    <string name="nav_trash">Trash</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home & Search -->
+    <string name="search_hint">Search notes, tasks, checklists…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="toggle_layout">Toggle list or grid view</string>
+    <string name="view_mode_grid">Grid View</string>
+    <string name="view_mode_list">List View</string>
+
+    <!-- Filters -->
+    <string name="filter_all">All</string>
+    <string name="filter_notes">Notes</string>
+    <string name="filter_tasks">Tasks</string>
+    <string name="filter_pinned">Pinned</string>
+    <string name="filter_today">Today</string>
+
+    <!-- FAB & Creation Actions -->
+    <string name="create_button">Create</string>
+    <string name="create_note">Note</string>
+    <string name="create_task">Task</string>
+    <string name="create_checklist">Checklist</string>
+    <string name="create_image_note">Image Note</string>
+
+    <!-- Empty States -->
+    <string name="empty_home_title">No notes yet</string>
+    <string name="empty_home_subtitle">Capture your first idea or task with MemoSpace.</string>
+    <string name="empty_notes_title">No notes here</string>
+    <string name="empty_notes_subtitle">Write down ideas, thoughts, and knowledge.</string>
+    <string name="empty_tasks_title">No pending tasks</string>
+    <string name="empty_tasks_subtitle">You\'re all caught up!</string>
+    <string name="empty_pinned_title">No pinned items</string>
+    <string name="empty_pinned_subtitle">Pin your most important notes and tasks to keep them at the top.</string>
+    <string name="empty_archive_title">Archive is empty</string>
+    <string name="empty_archive_subtitle">Archived notes and tasks will be stored safely here.</string>
+    <string name="empty_trash_title">Trash is empty</string>
+    <string name="empty_trash_subtitle">Deleted items stay here before permanent removal.</string>
+
+    <!-- Appearance & Theme -->
+    <string name="appearance_title">Appearance</string>
+    <string name="appearance_light">Light</string>
+    <string name="appearance_dark">Dark</string>
+    <string name="appearance_system">System Default</string>
+
+    <!-- Action Bar & Accessibility -->
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+</resources>
